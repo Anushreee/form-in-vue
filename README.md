@@ -1,14 +1,18 @@
 # domain-frontend-test
-Frontend Development Test for Domain.com
 
+> A Vue.js project
 
--It took me approximately 4 hours to perform this test. 
--I dont have a personal copy of photoshop. So I emulated the design based on teh empty and completed states in the two png files provided.
--Tested in ie10, 11, latest chrome and firefox
+## Build Setup
 
-Technologies Used:
-1. Sass
-2. Vue Js
-3. Webpack
+``` bash
+# install dependencies
+npm install
 
+# serve with hot reload at localhost:8080
+npm run dev
 
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
